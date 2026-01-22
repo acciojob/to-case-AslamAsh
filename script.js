@@ -1,6 +1,6 @@
 function toCase(text) {
   // write your code here
-	if (!str || str.length === 0) {
+	if (!text || text.length === 0) {
     return "-";
   }
 
