@@ -4,7 +4,7 @@ function toCase(text) {
     return "-";
   }
 
-  return str.toLowerCase() + "-" + str.toUpperCase();
+  return text.toLowerCase() + "-" + text.toUpperCase();
 }
 }
 
